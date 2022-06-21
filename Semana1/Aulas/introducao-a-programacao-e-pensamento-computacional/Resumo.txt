@@ -1,0 +1,2 @@
+Introdução aos conceitos da programação como o raciocínio lógico voltado a lógica de programação 
+e aos principais pilares do pensamento computacional.
